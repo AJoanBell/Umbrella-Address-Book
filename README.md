@@ -150,7 +150,3 @@ A string is created combining the above information, as Temperature, an icon for
 On the index.html page, the element (div) with id 'weather' is then assigned the html from the created string  which will display the data collected above.
 
 
-### Website functionality
-
-## UX/UI and CSS
-(insert work milestones and key concepts of journey)
